@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bb13c16a-b655-4742-9923-e80f9ef7e506)# theia_audio_to_textsum
+# theia_audio_to_textsum
 
 This contains all the architecture, application overview and external resources
 
