@@ -10,3 +10,5 @@ This contains all the architecture, application overview and external resources
 """How to use a pretrained text sum model, deploy it and query it"""
 #https://aws.amazon.com/blogs/machine-learning/text-summarization-with-amazon-sagemaker-and-hugging-face/
 """How to setup the HF model pipeline"""
+#https://aws.amazon.com/blogs/media/democratize-documentation-summarization-with-hugging-face-on-amazon-sagemaker/
+"""How to setup a lambda function that will move a file from s3 to sagemaker endpoint you are hosting with a model saved in S3"""
